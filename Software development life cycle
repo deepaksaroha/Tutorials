@@ -1,0 +1,12 @@
+Planning -> Analysis -> Designing -> Implementation -> Testing -> Maintenance -> Planning
+
+Planning -> man and material needs
+Requirement Analysis -> Features
+Designing -> architechture, UI functionality, security, technology to use
+Implementation -> Coding
+Testing -> testing
+Deployment -> Deploying on some env for clients to use
+Maintenance -> Bug resolution
+
+Agile->
+The agile methodology focuses strongly on user input and experience, which can solve many issues that arose from older applications that were more cumbersome to use. The software, as it moves through the agile process, is very responsive to feedback and works to release software in quicker cycles in order to adhere to a changing and rapid market.
